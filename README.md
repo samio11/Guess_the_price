@@ -1,4 +1,5 @@
 🎯 Guess the Prize - A Fun Interactive Game!
+![Screenshot 2025-03-22 101911](https://github.com/user-attachments/assets/fafa8768-a914-44bc-9010-d89fd97286bc)
 
 Welcome to Guess the Prize, a fun and engaging web game where you test your luck by choosing the right box! The boxes shuffle, and your challenge is to find the hidden prize. 🏆
 
